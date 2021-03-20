@@ -3,7 +3,7 @@
 
 In Machine learning, the Dice and IOU (Intersection over Union) metrics are often used to calculate the accuracy of predictions.
 
-In object detection, it is common to represent the predicted bounding box vs the labeled box. But these boxes are typically not rotated.
+For object detection, they are commonly used to compute the accuracy of the predicted bounding boxes vs the labeled boxes. But these boxes are typically not rotated.
 
 But when shapes are rotated like they are in the context of my app Mix on Pix, then it can be more complicated to calculate the area of a shape.
 

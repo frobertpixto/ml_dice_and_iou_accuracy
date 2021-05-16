@@ -11,7 +11,7 @@ But when shapes are rotated like they are in the context of my app Mix on Pix, t
 ![Mix on Pix val images](images/mix_on_pix_val_3_im.png)
 
 ### Notebooks
-- Dice and IOU coefficients: [ml_dice_and_iou.ipynb](ml_dice_and_iou.ipynb).
+- Dice and IOU coefficients: [ml_dice_and_iou.ipynb](ml_dice_and_iou.ipynb). **Note**: Also viewable from [here](https://nbviewer.jupyter.org/github/frobertpixto/ml_dice_and_iou_accuracy/blob/main/ml_dice_and_iou.ipynb). 
 
 ---
 ## Usage in Mix on Pix
